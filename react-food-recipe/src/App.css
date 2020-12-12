@@ -1,0 +1,18 @@
+.jumbotron{
+  background-color:#2d3436;
+  color: white;
+  padding: 90px 0;
+  text-align: center;
+}
+
+.brand-icon{
+  font-size: 100px;
+}
+
+.form-control {
+  margin-top: 1%;
+}
+
+.input-group-append{
+  margin-top:1%;
+}
